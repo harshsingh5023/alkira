@@ -1,0 +1,19 @@
+.App {
+  align-items: left;
+  text-align: center;
+  margin-left: 8rem;
+  margin-right: 8rem;
+}
+
+th{
+  background: #074684!important;
+  color: white!important;
+  padding: 0.8rem!important;
+}
+tr{
+  border: 2px solid white!important;;
+}
+td{
+  padding: 0.8rem!important;
+
+}
